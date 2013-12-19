@@ -1,0 +1,13 @@
+[
+    {
+        "id": "selection",
+        "caption": "Selection",
+        "children":
+        [
+            {
+                "caption": "Swap Selections",
+                "command": "swap_selections"
+            }
+        ]
+    }
+]
