@@ -18,7 +18,7 @@ Results in:
 Usage
 -----
 
-Call from the command palette of `Selection` menu as the `Swap Selections` command.
+Call from the command palette or `Selection` menu as the `Swap Selections` command.
 
 Bound to the following keyboard shortcut on Windows and Linux:
 
