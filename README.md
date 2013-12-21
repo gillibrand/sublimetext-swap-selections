@@ -20,16 +20,16 @@ Usage
 
 Call from the command palette or `Selection` menu as the `Swap Selections` command.
 
-Bound to the following keyboard shortcut on Windows and Linux:
+Bound to the following keyboard shortcut on OS X:
+
+    Swap Selection     ⌥S    
+
+On Windows and Linux:
 
     Swap Selection     Alt+S
-
-On OS X:
-
-    Swap Selection     ⌥+S    
 
 Compatibility
 -------------
 
-Compatible with Sublime Text 3. Likely works, but not tested, with Sublime Text 2.
+Compatible with Sublime Text 2 and 3.
 
