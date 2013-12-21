@@ -1,7 +1,7 @@
 Swap Selections
 ===============
 
-A command to swap the text of the current selections. This is mostly useful with two selections, e.g., swapping the order of two selected function arguments. It can also be used to rotate the text of any number of selections--perfect for creating cereal box decoder rings.
+A command to swap the text of the current selections. This is mostly useful with two selections, e.g., swapping the order of two selected function arguments. It can also be used to rotate the text of any number of selections—perfect for creating cereal box decoder rings.
 
 For example, swapping these three «selections»:
 
