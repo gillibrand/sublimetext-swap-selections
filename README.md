@@ -38,5 +38,7 @@ History
 
 Note that this package replaces the similar [SwapSelection](https://github.com/chenha0/SwapSelection) package, which is no longer maintained.
 
+- 1.0.1
+    - README clean up.
 - 1.0
     - Initial release.
