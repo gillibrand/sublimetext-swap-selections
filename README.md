@@ -33,3 +33,10 @@ Compatibility
 
 Compatible with Sublime Text 2 and 3.
 
+History
+-------
+
+Note that this package replaces the similar [SwapSelection](https://github.com/chenha0/SwapSelection) package, which is no longer maintained.
+
+- 1.0
+    - Initial release.

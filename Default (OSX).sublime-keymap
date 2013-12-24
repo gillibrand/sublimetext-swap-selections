@@ -1,3 +1,6 @@
 [
 	{ "keys": ["alt+s"], "command": "swap_selections" }
+
+	// Legacy key binding from older SwapSelect packages
+	// { "keys": ["alt+]"], "command": "swap_selections" }
 ]
